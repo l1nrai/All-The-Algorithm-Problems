@@ -19,6 +19,7 @@
 枚举最后一个子数组的左端点 L，从 f[L] 转移到 f[i]，并考虑 a[L:i] 对最优解的影响。
 
 ## 习题
+
 - [力扣 132. 分割回文串 II](https://leetcode.cn/problems/palindrome-partitioning-ii/) 模板
 - [力扣 2707. 字符串中的额外字符](https://leetcode.cn/problems/extra-characters-in-a-string/) 
 - [力扣 3196. 最大化子数组的总成本](https://leetcode.cn/problems/maximize-total-cost-of-alternating-subarrays/) 更小的划分
