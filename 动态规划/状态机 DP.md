@@ -13,6 +13,8 @@
 - [力扣 309. 买卖股票的最佳时机含冷冻期](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown/) 状态机 DP 设计
 - [力扣 714. 买卖股票的最佳时机含手续费](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) 模板
 
+- [洛谷 P12214 [蓝桥杯 2023 国 Python B] 贸易航线](https://www.luogu.com.cn/problem/P12214#submit) 多支股票，可换仓操作
+
 ## 其他状态机
 
 ### Problems
